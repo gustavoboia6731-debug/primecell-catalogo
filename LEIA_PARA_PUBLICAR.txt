@@ -1,0 +1,6 @@
+Prime Cell — publicação estática
+
+O projeto contém index.html, app.js, config.js e arquivos de imagem.
+Todas as imagens e arquivos devem ficar na mesma pasta.
+Não use schema.sql ou atualizacao.sql: o Supabase já contém as tabelas.
+Não exponha o custo dos aparelhos publicamente.
